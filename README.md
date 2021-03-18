@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoshitoG.
 - 👀 I’m interested in data visualisation, Python, Django, R, D3... 
-- 🌱 I’m currently learning github scraping.
+- 🌱 I’m currently learning [Git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/).
 - 💞️ I adore [Denchu HIRAKUSHI](https://www.city.kodaira.tokyo.jp.e.fj.hp.transer.com/kurashi/002/002376.html).
 - 📫 How to reach me ...
 
